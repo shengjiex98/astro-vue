@@ -1,0 +1,14 @@
+{
+  "name": "astro-vue",
+  "version": "1.0.0",
+  "description": "The vue.js version of the plotting tool for ASTR 101L at UNC Chapel Hill.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shengjiex98",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
